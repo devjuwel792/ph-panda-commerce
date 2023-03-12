@@ -37,5 +37,10 @@ section {
 .card-3{
     background-color: #0d6ce7;
 }
+.card{
+    border: none !important;
+    box-shadow: rgba(0, 0, 0, 0.35) 5px 5px 10px;
+
+}
 
 
