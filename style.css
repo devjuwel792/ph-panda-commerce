@@ -18,3 +18,22 @@ section {
 .price{
     color: #FF136F;
 }
+.categories h4{
+    color: white;
+}
+ .categories img {
+    width: 100px;
+ }
+ .card-1,.card-2,.card-3{
+    padding: 20px 0 ;
+    border-radius: 7px;
+ }
+.card-1{
+    background-color: #FF136F;
+}
+.card-2{
+    background-color: #ffef13;
+}
+.card-3{
+    background-color: #1713ff;
+}
